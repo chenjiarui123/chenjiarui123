@@ -5,7 +5,7 @@
 > I want to embrace the dreams that have yet to come true.
 
 - [MeetingFlow](https://github.com/chenjiarui123/Lark_Agent) — 面向飞书会议生命周期的 evidence-grounded Agent。把文档、群聊、妙记压成带证据的 Claim，再挑时机推给团队；LLM 只产候选，校验、去重、打分全部下沉到确定性 core 层
-- **港口占用率时空预测**（毕业设计）— 基于 2022 年全球 AIS 数据构建 476 港时空图，设计趋势-事件双分支动态图网络 DDGNet 做 6h 占用率预测，含 baseline 对比、消融与多 horizon 实验
+- **智慧食堂菜单推荐系统** — 需求预测与结构/容量优化回测，FastAPI + Vue 3 交付网页端，附带可独立集成的 Python SDK，跑在真实食堂经营数据上
 - **SOL 趋势监控** — 复刻 TradingView 的 SuperTrend 指标，GitHub Actions 定时拉 K 线，趋势反转时推送 Telegram 信号与图表
 
 <hr />
